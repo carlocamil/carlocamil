@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @whitejasmine1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-whitejasmine1/whitejasmine1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ilya Kozel
+- 👀 I’m interested in software engineering, blockchain, smart-contract, trading
+- 🌱 I’m currently learning dapp
+- 💞️ I’m looking to collaborate on high-tech community
+- 📫 How to reach me. email: ilyakozel40@gmail.com
+-
