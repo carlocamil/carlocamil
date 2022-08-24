@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ilya Kozel
+- 👋 Hi, I’m Carlos Camilo
 - 👀 I’m interested in software engineering, blockchain, smart-contract, trading
 - 🌱 I’m currently learning dapp
 - 💞️ I’m looking to collaborate on high-tech community
-- 📫 How to reach me. email: ilyakozel40@gmail.com
+- 📫 How to reach me. email: carloscamil27@gmail.com
 -
